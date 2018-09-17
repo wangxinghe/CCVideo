@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/d5894acbba7d591ba08dc1d5208bb31d769f6edb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcb716303abee870dbb06af2d141c8ea6c280db4">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_5783b2ca8e51215387cf333be1460e21cbf379bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/okio-1.14.0_7159ce02393a9ec9480c2d29f3a1fe84eab16d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/19526a505ec280dc64640111e8ff1316fd4eff22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_763e51fb88b6744daa1d027e12f879096ec922df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/bc27298c230d90f8201f34514349d2c2f177e33c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f608e34c0dca5157b558742b18730e17d8e91f63">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_d4684b9e3e9915abf5fc49ddbebc034338f0d7a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/779b15ebbb71edf4e15af179c37616c5cebbf9aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="50f1b1ef2342f465364f1f853bc7afd895d4c328">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_b6431d00b5124d6e51596a538ce8942ea6699022.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/acac3d7b853ba168fe3fbc67f35a19acaaa6fd51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b5027f06746044b1c07c2d94ed2d16b9a5f50e1">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_6037fbd0edfbd91479bee07f137a361589962e62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.4.0/fc4aa382632bfaa7be7b41579efba41d5a71ecf3/retrofit-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc4aa382632bfaa7be7b41579efba41d5a71ecf3">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/retrofit-2.4.0_670e5953c72eb2cee91e3cd6c31ed0c342743315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-android/1.7.21/f4f6a07c00f3996d8db58c85a3d73377b40611eb/slf4j-android-1.7.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f4f6a07c00f3996d8db58c85a3d73377b40611eb">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/slf4j-android-1.7.21_eadca99c3ed050e3faf7073f80e3517d0c142968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/1aa4324490a844a95a3678eea10b4fce7e7d6c77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_066aca482f019e63e4fc26513b02e5f8def6761b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_39cc16c77e85ec8cc7e491343c93c25f3c6fb682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/4f9e358ac943615a6d09ae5e7ca4d7cdd91fd086/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="798bae4850d66dc4f82a2782f1c91991e9dc0c39">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_07c26f4aaae46a3f2ac787953862463843054b82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/d3c3d0d31bc4366df34ed464edad86ec4bf4c962/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_d2e94ac953253062b6d17b140f352151cd431e8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.8.1_a9c2fcbb16bc6b39364ea4961e03ebf8cf4f2678.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/81235c1df5231f2a4a638aa32d8286048ba9a3ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3b76ad3c1f40d13f12aa2458deaca8d6820a5e7">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_a84d8754dfc2765e7da30fc3b4603249abad75db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_276019bd58e15dc7036df047cb7645b357e83b49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_68595dd808d4f65c2a946be0b7942668a4868886.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/18201b423c4738f57f5af538ad53cf41f4dd8c31/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_7977f943b2cb67dd14bb3e1ffcd6e93deb21116f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/5a7ec0c9474c83ce12d0b5a6d996bba9617c17fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="26e08c73415d43f2fa1cca5212d2e4d650503ddd">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_ca12f8217aa55530f9843883681a6925e62c426c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/053e3e43caaf2c562e2b0b46d0af9697f0a6f48c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="254f10f064e2a593f475227f5f6d7aa79b24a71b">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_7bac7c46e06050f19f99b5384f84cf9a2960f9d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/f6ae06da74fea632e2d2e1462011c506f8935f91/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf98d9bbac6d175c40d9a3d1d8da77fbbcf0a81c">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_5bd59949dae800674323e0c470d37bfbd5eac45c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/d62950b61d19cb4e7590148a5980afd90f64d283/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2648a2080054daa5ff07cbce9fded91153be4b11">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_7690f84659d1f2af6feab3c0de7b3b775ace23ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/65d23904f635a580db057c7b2896c0d6a413ab25/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_ad17cb79678098df187b64709648552ad6daea26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/gson-2.7_ae8859213aa61f3ecdb5919d60adcd46129be955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/a203e6253fd41a5e9dc3505ef8f0ebb8fa480900/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cc5b65162cf57363b4a924805f16947660918cdf">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_9d7ae7031c61b50b815521b0e349c0198f511a48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.4.1_5389dbdcbae8bddc25b2cac4fe177c07d8d8e94b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/4e90612114f2b4d41171ce16cea37a1f50a6310b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3cfc25b617677ac2712d7555c3c3bedf451b6b9">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_6a5a220973ace572db035504e4a3adef71f1e9c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/397e53b0850a07c9e999f8039ec34ecd39aa7267/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41a4edf3c43fdbce6eba27da50b17ff9933987f1">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_b9ffe862de0d2da9d438ac738cdbbaf155535d50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/7ebd06d6185714fdcc4b8b7780383b8718698dca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6e70b1353fde0321dc95c72897a6b7a62f7c8ece">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_9518660bd13e4a85b7493e9db5f8edaebdd709dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.3.0/f436637f9500ab5b8bc32afe556373180894b4a5/adapter-rxjava2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/adapter-rxjava2-2.3.0_7f9923156a27bfa4254c768f1b928803d72813b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/6800b9bebffdc7022e5cbcaa8900d81ba658b753/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="24a746ed49aea913f5f009715c49e01a8d758e3f">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_09b85d47f8167c37306a54d39d15769b144bf936.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/61b9ac51763b0344aaf9e904da1717c2c3691e21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0a919fdfb7808ff27b33e6e84ec990478abc9cf1">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_80807f633c1e2a598f583137d35b3ba43a1b512c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/1fda0cd414301fc8bbb48a91d9a4309b173a483c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_695a38cbd3f9a5849c95389581a609299f8c8d51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/89b2ddffba38a4e2e4b3026687b31ddd797b628c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_e073a551632e8274cf6950b60550ee7ed088a0b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/295cf63efa6edb2a3fd328a4ff046ec6d3ed290a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f4bf876b33bb1141754aef396f0a616333d58cf8">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_206a206ccc91fbe9f2c1215e4bdca40d275a8a77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/9078e1dbd7138634326a41b072712b8370f1751e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="61741c492af29679431ed009915fe0538dd6b1ce">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_3119bfa539d70a1f16b506ceea1f685716b91245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/cbb6a594c9ad398925804c765412574ccff40154/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_5d357e41b9e6592adcdf4d7f83067db4d00692d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/9a98c8290c0d1770bdf293c93420c256dcbc5279/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3e2f65579ec6cac4c524364dff362216943925c">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_78b02e4584a764cbdd87f7ee3fe4f8fb6753cb82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/734c6d635b0b4f3c6825e246c4e25c140d34b0db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_6d6832750c527795029e092b3ffca869c45f7bee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.1/99895d4dc6d79efbb74360f13c556d95533ad8f8/rxjava-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="99895d4dc6d79efbb74360f13c556d95533ad8f8">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/rxjava-2.1.1_d7a2a5931e81776e50899046645953de66e90bd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_37cb26c131a827ad3b79f8b38029961cff053c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_50442dd5e7ee44cc9842e328031ff63f36c761e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.21_960aa29c03ba887dc3e79c5bae58d1fd88d7ee96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/4926bc00b14c776667c4a4adefe41e090b50ec43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_ee956bf16152543d9b18ceaad84d64098498886a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/26e796d7a59fe1d8fcdb6c2ce74cc8089075b18e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_b912692a7dd52bb13d643c15b9a9c2c86be58331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxinghe/.android/build-cache/7370302974b89410d24b6f3bfb8274cd96c7caac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/wangxinghe/Works/Github_Mine/CCVideo/app/build/intermediates/pre-dexed/debug/classes_9e4962b8adf0955fef294542c88d4384c75334a5.jar" />
+    </item>
+
+</items>

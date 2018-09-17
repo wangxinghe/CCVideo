@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_message"
+            android:icon="@mipmap/mail_outline_black_36"
+            android:title="@string/message" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@mipmap/search_black_36"
+            android:title="@string/search" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@mipmap/settings_black_36"
+            android:title="@string/settings" />
+    </group>
+</menu>

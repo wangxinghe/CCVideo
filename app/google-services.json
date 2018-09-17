@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "803219721688",
+    "firebase_url": "https://ccvideo-2baf6.firebaseio.com",
+    "project_id": "ccvideo-2baf6",
+    "storage_bucket": "ccvideo-2baf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803219721688:android:aa5a6792afaf697e",
+        "android_client_info": {
+          "package_name": "com.mouxuejie.ccvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803219721688-fncotfuk2jc1vukh4ljucgnt8fijr13c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2R0DWQ_-Wkf9HNUeD724ZmNB_loMpiCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
